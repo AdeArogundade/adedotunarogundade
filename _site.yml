@@ -5,9 +5,9 @@ navbar:
   left:
     - text: "Home"
       href: index.html
-    - text: "Timetable"
-      href: Timetable.html
-    - text: "Chapters"
-      href: Chapters.html
-    - text: "Resources"
-      href: Resources.html
+    - text: "Values"
+      href: Values.html
+    - text: "Research"
+      href: Research.html
+    - text: "Contact"
+      href: Contact.html
