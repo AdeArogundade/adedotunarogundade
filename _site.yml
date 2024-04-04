@@ -1,0 +1,13 @@
+name: "Adedotun Arogundade"
+output_dir: "."
+navbar:
+  title: "Reproducible Science"
+  left:
+    - text: "Home"
+      href: index.html
+    - text: "Timetable"
+      href: Timetable.html
+    - text: "Chapters"
+      href: Chapters.html
+    - text: "Resources"
+      href: Resources.html
