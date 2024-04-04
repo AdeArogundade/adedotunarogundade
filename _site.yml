@@ -1,5 +1,6 @@
 name: "Adedotun Arogundade"
 output_dir: "."
+theme: jekyll-theme-cayman
 navbar:
   title: "Adedotun Arogundade"
   left:
