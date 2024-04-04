@@ -1,7 +1,10 @@
 name: "Adedotun Arogundade"
+remote_theme: pages-themes/cayman@v0.2.0
+plugins:
+- jekyll-remote-theme 
 output_dir: "."
 navbar:
-  title: "Reproducible Science"
+  title: "Adedotun Arogundade"
   left:
     - text: "Home"
       href: index.html
