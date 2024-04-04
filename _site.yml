@@ -1,5 +1,5 @@
 name: "Adedotun Arogundade"
-remote_theme: pages-themes/cayman@v0.2.0
+theme: jekyll-theme-Cayman
 output_dir: "."
 navbar:
   title: "Adedotun Arogundade"
