@@ -1,1 +1,14 @@
 theme: jekyll-theme-cayman
+header:
+
+- title: Home
+  url: index.html
+
+- title: About
+  url: About.html
+
+- title: Research
+  url: Research.html
+
+- title: Contact
+  url: Contact.html
